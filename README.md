@@ -26,6 +26,5 @@
 	<footer>
 		<p>Copyright 2021 CSF Wearable</p>
 	</footer>
-	<script src="script.js"></script>
 </body>
 </html>
