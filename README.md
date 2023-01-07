@@ -4,7 +4,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>CSF Wearable</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
